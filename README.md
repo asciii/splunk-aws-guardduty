@@ -1,1 +1,1 @@
-# splunk-aws-github
+# splunk-aws-guardduty
